@@ -32,7 +32,7 @@ kivy test.py -w  <-- will run test.py as a python script with kivy ready to use
 Run a Kivy application without going to the command line
 ========================================================
 
-Two options :
+Three options :
 
 1. You can drag your python script on top the kivy.bat file and it will launch
 
@@ -42,6 +42,7 @@ Navigate to the folder that includes this README and select the kivy.bat file.
 Now all you have to do is double click (check do this always for this file type 
 to make this the default)
 
+3. Install the Python Launcher for Windows. (See Python PEP-
 
 If you already have Python installed
 ====================================
