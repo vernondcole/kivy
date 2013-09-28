@@ -153,7 +153,7 @@ The ``/usr/bin`` part will be ignored by the Windows launcher, we add it so that
 pick a specific Python version. (On my Linux workstation, ``/usr/bin/kivy`` is soft-linked to a virtualenv.)
 
 Full documentation can be found at:
-`Python3.3 docs <http://docs.python.org/3.3/using/windows.html#launcher>`_.
+`Python3.3 docs <http://docs.python.org/3.3/using/windows.html#launcher>`_ and 
 `PEP 397 <http://www.python.org/dev/peps/pep-0397/>`_.
 
 Use development Kivy
