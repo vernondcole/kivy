@@ -42,7 +42,12 @@ Navigate to the folder that includes this README and select the kivy.bat file.
 Now all you have to do is double click (check do this always for this file type 
 to make this the default)
 
-3. Install the Python Launcher for Windows. (See Python PEP-
+3. Install the Python Launcher for Windows. (Comes with Python 3.3 -- See Python PEP-397)
+* in each of your main.py files, add a first line of:
+   #!/usr/bin/kivy
+* create a file named C:\Windows\py.ini containing something like:
+   [commands]
+   kivy="c:\<path>\<to>\<your>\kivy.bat"
 
 If you already have Python installed
 ====================================
